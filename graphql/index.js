@@ -57,6 +57,13 @@ const sneakers = [{
     image: 'https://sneakersimages.blob.core.windows.net/sneakers/3EB6F1D7-D136-4615-91E2-F5E6C684C27D.JPG',
     purchaseDate: '2020-12-26T00:00:00'
   },
+  ,  {
+    id: 4,
+    brand: 'Nike',
+    model: 'BW/97',
+    image: 'https://sneakersimages.blob.core.windows.net/sneakers/3EB6F1D7-D136-4615-91E2-F5E6C684C27D.JPG',
+    purchaseDate: '2020-12-27T00:00:00'
+  },
 ];
 
 
